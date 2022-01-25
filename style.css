@@ -108,3 +108,32 @@
     padding: 10px 20px;
     border-radius: 10px 10px;
 }
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.pc {
+    color: blue;
+    font-weight: 700;
+    background-color: white;
+    border-radius: 10%;
+}
+
+.footer {
+    padding: 10% 3%;
+    background-color: black;
+    margin-top: 3%;
+}
+
+.para {
+    text-align: left;
+    color: white;
+}
+
+.right {
+    margin-top: 0px;
+    float: right;
+    text-align: center;
+}
